@@ -1,16 +1,1 @@
-# weather_ui
-
-A new Flutter project.
-
-## Getting Started
-
-This project is a starting point for a Flutter application.
-
-A few resources to get you started if this is your first Flutter project:
-
-- [Lab: Write your first Flutter app](https://docs.flutter.dev/get-started/codelab)
-- [Cookbook: Useful Flutter samples](https://docs.flutter.dev/cookbook)
-
-For help getting started with Flutter development, view the
-[online documentation](https://docs.flutter.dev/), which offers tutorials,
-samples, guidance on mobile development, and a full API reference.
+![Screenshot (2033)](https://github.com/farahassaf-25/weather_forecast_app/assets/112881147/7c0dd62b-16bb-4c43-896a-b35487362c21) ![Screenshot (2035)](https://github.com/farahassaf-25/weather_forecast_app/assets/112881147/f0f766d4-cb44-4980-83fa-dd1d559dbb91) ![Screenshot (2036)](https://github.com/farahassaf-25/weather_forecast_app/assets/112881147/3038b724-0e8a-4891-8c5c-9ce6942420d7)
